@@ -10,4 +10,4 @@
 <pre><code class="has-line-data" data-line-start="17" data-line-end="19">python3 manage.py runserver
 </code></pre>
 <h3 class="code-line" data-line-start=19 data-line-end=20 ><a id="_19"></a>Автор</h3>
-<p class="has-line-data" data-line-start="20" data-line-end="21">Mateo</p>
+<p class="has-line-data" data-line-start="20" data-line-end="21">Pitmo</p>
